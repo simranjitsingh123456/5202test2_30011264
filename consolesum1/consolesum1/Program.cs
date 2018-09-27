@@ -15,7 +15,7 @@ namespace consolesum1
         
         
             
-     class bird
+     class Bird
         {
             string name, sound;
 
